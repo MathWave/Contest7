@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5ed3a05-36f3-4c3f-9635-a93d8775cf34" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/TaskH/Friday.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskG/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskF/FibNumber.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskG/Sequence.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskF/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskE/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskC/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskE/Vector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskD/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskC/RegularPolygon.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskD/Int.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskB/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskB/Point.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskA/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskA/Triangle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskH/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/TaskA/Program.cs" />
+        <option value="$PROJECT_DIR$/TaskB/Point.cs" />
+        <option value="$PROJECT_DIR$/TaskB/Program.cs" />
+        <option value="$PROJECT_DIR$/TaskC/Program.cs" />
+        <option value="$PROJECT_DIR$/TaskC/RegularPolygon.cs" />
+        <option value="$PROJECT_DIR$/TaskD/Int.cs" />
+        <option value="$PROJECT_DIR$/TaskD/Program.cs" />
+        <option value="$PROJECT_DIR$/TaskE/Program.cs" />
+        <option value="$PROJECT_DIR$/TaskE/Vector.cs" />
+        <option value="$PROJECT_DIR$/TaskF/FibNumber.cs" />
+        <option value="$PROJECT_DIR$/TaskF/Program.cs" />
+        <option value="$PROJECT_DIR$/TaskG/Number.cs" />
+        <option value="$PROJECT_DIR$/TaskG/Numbers.cs" />
+        <option value="$PROJECT_DIR$/TaskG/Program.cs" />
+        <option value="$PROJECT_DIR$/TaskG/Sequence.cs" />
+        <option value="$PROJECT_DIR$/TaskH/Program.cs" />
+        <option value="$PROJECT_DIR$/TaskH/Friday.cs" />
+        <option value="$PROJECT_DIR$/TaskA/Triangle.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lSeW50KGUYVkqCA79NlcJxbKDR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected=".NET Project.TaskG">
+    <configuration name="TaskA" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/TaskA/TaskA.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskC" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/TaskC/bin/Debug/netcoreapp3.1/TaskC.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TaskC/bin/Debug/netcoreapp3.1" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/TaskC/TaskC.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskD" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/TaskD/bin/Debug/netcoreapp3.1/TaskD.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TaskD/bin/Debug/netcoreapp3.1" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/TaskD/TaskD.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskE" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/TaskE/bin/Debug/netcoreapp3.1/TaskE.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TaskE/bin/Debug/netcoreapp3.1" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/TaskE/TaskE.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskF" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/TaskF/bin/Debug/netcoreapp3.1/TaskF.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TaskF/bin/Debug/netcoreapp3.1" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/TaskF/TaskF.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskG" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/TaskG/bin/Debug/netcoreapp3.1/TaskG.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TaskG/bin/Debug/netcoreapp3.1" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/TaskG/TaskG.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Project.TaskG" />
+        <item itemvalue=".NET Project.TaskF" />
+        <item itemvalue=".NET Project.TaskE" />
+        <item itemvalue=".NET Project.TaskD" />
+        <item itemvalue=".NET Project.TaskC" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5ed3a05-36f3-4c3f-9635-a93d8775cf34" name="Default Changelist" comment="" />
+      <created>1607594948743</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607594948743</updated>
+      <workItem from="1607594952633" duration="10746000" />
+      <workItem from="1607703580726" duration="8081000" />
+      <workItem from="1607765071353" duration="3204000" />
+      <workItem from="1607778098819" duration="255000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state width="1638" height="276" key="GridCell.Tab.0.bottom" timestamp="1607775713029">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="276" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1607775713029" />
+    <state width="1638" height="276" key="GridCell.Tab.0.bottom/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1607714292607" />
+    <state width="1638" height="276" key="GridCell.Tab.0.center" timestamp="1607775713028">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="276" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1607775713028" />
+    <state width="1638" height="276" key="GridCell.Tab.0.center/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1607714292606" />
+    <state width="1638" height="276" key="GridCell.Tab.0.left" timestamp="1607775713028">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="276" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1607775713028" />
+    <state width="1638" height="276" key="GridCell.Tab.0.left/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1607714292606" />
+    <state width="1638" height="276" key="GridCell.Tab.0.right" timestamp="1607775713028">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="276" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1607775713028" />
+    <state width="1638" height="276" key="GridCell.Tab.0.right/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1607714292607" />
+    <state width="1638" height="344" key="GridCell.Tab.1.bottom" timestamp="1607775713006">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="344" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1607775713006" />
+    <state width="1638" height="344" key="GridCell.Tab.1.center" timestamp="1607775713004">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="344" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1607775713004" />
+    <state width="1638" height="344" key="GridCell.Tab.1.left" timestamp="1607775713004">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="344" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1607775713004" />
+    <state width="1638" height="344" key="GridCell.Tab.1.right" timestamp="1607775713005">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="344" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1607775713005" />
+    <state width="1638" height="344" key="GridCell.Tab.2.bottom" timestamp="1607775713007">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="344" key="GridCell.Tab.2.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1607775713007" />
+    <state width="1638" height="344" key="GridCell.Tab.2.center" timestamp="1607775713007">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="344" key="GridCell.Tab.2.center/0.0.1680.1050@0.0.1680.1050" timestamp="1607775713007" />
+    <state width="1638" height="344" key="GridCell.Tab.2.left" timestamp="1607775713006">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="344" key="GridCell.Tab.2.left/0.0.1680.1050@0.0.1680.1050" timestamp="1607775713006" />
+    <state width="1638" height="344" key="GridCell.Tab.2.right" timestamp="1607775713007">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="344" key="GridCell.Tab.2.right/0.0.1680.1050@0.0.1680.1050" timestamp="1607775713007" />
+    <state width="1638" height="344" key="GridCell.Tab.3.bottom" timestamp="1607775713009">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="344" key="GridCell.Tab.3.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1607775713009" />
+    <state width="1638" height="344" key="GridCell.Tab.3.center" timestamp="1607775713008">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="344" key="GridCell.Tab.3.center/0.0.1680.1050@0.0.1680.1050" timestamp="1607775713008" />
+    <state width="1638" height="344" key="GridCell.Tab.3.left" timestamp="1607775713008">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="344" key="GridCell.Tab.3.left/0.0.1680.1050@0.0.1680.1050" timestamp="1607775713008" />
+    <state width="1638" height="344" key="GridCell.Tab.3.right" timestamp="1607775713008">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="344" key="GridCell.Tab.3.right/0.0.1680.1050@0.0.1680.1050" timestamp="1607775713008" />
+    <state width="1638" height="344" key="GridCell.Tab.4.bottom" timestamp="1607768288787">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="344" key="GridCell.Tab.4.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1607768288787" />
+    <state width="1638" height="344" key="GridCell.Tab.4.center" timestamp="1607768288785">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="344" key="GridCell.Tab.4.center/0.0.1680.1050@0.0.1680.1050" timestamp="1607768288785" />
+    <state width="1638" height="344" key="GridCell.Tab.4.left" timestamp="1607768288785">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="344" key="GridCell.Tab.4.left/0.0.1680.1050@0.0.1680.1050" timestamp="1607768288785" />
+    <state width="1638" height="344" key="GridCell.Tab.4.right" timestamp="1607768288786">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="344" key="GridCell.Tab.4.right/0.0.1680.1050@0.0.1680.1050" timestamp="1607768288786" />
+    <state x="440" y="261" key="Rider.ProjectTemplateDialog.Size" timestamp="1607595042556">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="261" key="Rider.ProjectTemplateDialog.Size/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1607595042556" />
+  </component>
+</project>

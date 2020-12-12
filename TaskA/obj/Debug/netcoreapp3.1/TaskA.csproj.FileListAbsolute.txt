@@ -1,0 +1,12 @@
+/Users/egormatveev/Contest7/TaskA/bin/Debug/netcoreapp3.1/TaskA.deps.json
+/Users/egormatveev/Contest7/TaskA/bin/Debug/netcoreapp3.1/TaskA.runtimeconfig.json
+/Users/egormatveev/Contest7/TaskA/bin/Debug/netcoreapp3.1/TaskA.runtimeconfig.dev.json
+/Users/egormatveev/Contest7/TaskA/bin/Debug/netcoreapp3.1/TaskA.dll
+/Users/egormatveev/Contest7/TaskA/bin/Debug/netcoreapp3.1/TaskA.pdb
+/Users/egormatveev/Contest7/TaskA/obj/Debug/netcoreapp3.1/TaskA.csprojAssemblyReference.cache
+/Users/egormatveev/Contest7/TaskA/obj/Debug/netcoreapp3.1/TaskA.AssemblyInfoInputs.cache
+/Users/egormatveev/Contest7/TaskA/obj/Debug/netcoreapp3.1/TaskA.AssemblyInfo.cs
+/Users/egormatveev/Contest7/TaskA/obj/Debug/netcoreapp3.1/TaskA.csproj.CoreCompileInputs.cache
+/Users/egormatveev/Contest7/TaskA/obj/Debug/netcoreapp3.1/TaskA.dll
+/Users/egormatveev/Contest7/TaskA/obj/Debug/netcoreapp3.1/TaskA.pdb
+/Users/egormatveev/Contest7/TaskA/obj/Debug/netcoreapp3.1/TaskA.genruntimeconfig.cache
